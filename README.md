@@ -1,6 +1,6 @@
 # PokéGame
 
-Link On-line: https://RodFuji.github.io/PokeGame/
+Link On-line: https://rodfuji.github.io/PokeGame/
 ## Introduction
 
 - A simple Pokémon battle game created using JavaScript and the audio library Howler.js. In this game, you can choose a random Pokémon and battle against another random Pokémon. The objective of this project was to improve my JavaScript skills while developing a fun game to play.
